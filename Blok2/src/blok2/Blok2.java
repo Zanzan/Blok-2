@@ -5,7 +5,7 @@
 package blok2;
 
 /**
- *hfpdoasjdhflidshfklasjdhfkljadshkfjashdklfhas;dkfadsfadsf
+ *hfSpdoasjdhflidshfklasjdhfkljadshkfjashdklfhas;dkfadsfadsf
  * @author Yasen
  */
 public class Blok2 {
