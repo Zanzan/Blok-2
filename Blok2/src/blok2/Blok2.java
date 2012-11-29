@@ -7,6 +7,8 @@ package blok2;
 /**
  *OK, How about now?
  * @author Yasen
+ * 
+ * LAPTOP EDIT
  */
 public class Blok2 {
 
